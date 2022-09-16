@@ -9,6 +9,7 @@ public class Main
         Scanner sc=new Scanner(System.in);
         //Declare and Initialize the variable
         System.out.println("Enter the number: ");
+          
         int num=sc.nextInt();
         int i=1,fact=1;
         while(i<=num)
